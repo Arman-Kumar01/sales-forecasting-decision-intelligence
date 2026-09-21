@@ -1,0 +1,3 @@
+@echo off
+echo Starting Decision Intelligence Dashboard...
+streamlit run dashboard/app.py
