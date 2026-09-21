@@ -1,10 +1,13 @@
 # 🚀 Sales Forecasting & Decision Intelligence
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arman-kumar01-sales-forecasting-decision-i-streamlit-app-tgwqii.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-FF4B4B.svg)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.2%2B-orange.svg)](https://scikit-learn.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-5.14%2B-3F4F75.svg)](https://plotly.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> 🌐 **Live Web Application**: [arman-kumar01-sales-forecasting-decision-i-streamlit-app-tgwqii.streamlit.app](https://arman-kumar01-sales-forecasting-decision-i-streamlit-app-tgwqii.streamlit.app/)
 
 An end-to-end Machine Learning and Business Intelligence platform that bridges the gap between predictive time-series modeling and automated executive decision-making.
 
@@ -121,9 +124,13 @@ python -m pytest
 
 ---
 
-## ☁️ Deployment (Streamlit Community Cloud)
+## ☁️ Live Deployment
 
-You can deploy this application for free on **Streamlit Community Cloud** in 3 simple steps:
+The application is deployed live on **Streamlit Community Cloud**:
+👉 **[Launch Live Dashboard](https://arman-kumar01-sales-forecasting-decision-i-streamlit-app-tgwqii.streamlit.app/)**
+
+### Deploying Your Own Instance
+You can deploy your own instance of this application for free on **Streamlit Community Cloud**:
 
 1. Go to [share.streamlit.io](https://share.streamlit.io) and log in with your GitHub account.
 2. Click **"New app"** and configure:
